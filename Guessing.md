@@ -1,4 +1,4 @@
 GUESSING GAME
 
 flowchart TD
-    ([Start]) ---> ([Stop])
+    (Start) --> (Stop)
