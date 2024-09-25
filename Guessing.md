@@ -1,4 +1,4 @@
-GUESSING GAME
-
+```mermaid
 flowchart TD
-    (Start) --> (Stop)
+Start([Start]) --> End([End])
+```
